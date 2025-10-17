@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    font-family: Arial;
+    border: border-box;
+}
+.title{
+    height: 60px;
+    background-color: blue;
+    color: white;
+    align-content: center;
+    font-size: larger;
+ .hobbies{
+    height: 60px;
+    background-color:rgb(96, 93, 7);
+
+
+}
+.name{
+    display: flex;
+    align-items: left;
+}
+.tech{
+    font-size: medium;
+    font-family: Gevena;
+}
+.hobby{
+    background-color: aqua;
+    color:black;
+    disolay:flex;
+}
